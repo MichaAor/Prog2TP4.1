@@ -1,0 +1,94 @@
+# depslib dependency file v1.0
+1631136330 source:d:\este cuatri 3\programacion 2\resoluciones mias tp lab2\tpn4.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Empleado.h"
+
+1631139099 source:d:\este cuatri 3\programacion 2\resoluciones mias tp lab2\tpn4.1\archivo.c
+	"Archivo.h"
+	"Menu.h"
+	"Empleado.h"
+
+1631138164 d:\este cuatri 3\programacion 2\resoluciones mias tp lab2\tpn4.1\archivo.h
+
+1631136550 source:d:\este cuatri 3\programacion 2\resoluciones mias tp lab2\tpn4.1\empleado.c
+	"Empleado.h"
+	"Menu.h"
+
+1631065666 d:\este cuatri 3\programacion 2\resoluciones mias tp lab2\tpn4.1\empleado.h
+
+1631124966 d:\este cuatri 3\programacion 2\resoluciones mias tp lab2\tpn4.1\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1631138587 source:d:\este cuatri 3\programacion 2\resoluciones mias tp lab2\tpn4.1\ej1.c
+	"Menu.h"
+	"Empleado.h"
+	"ListEmpleado.h"
+
+1631129099 d:\este cuatri 3\programacion 2\resoluciones mias tp lab2\tpn4.1\listempleado.h
+	"Empleado.h"
+
+1631146478 source:d:\este cuatri 3\programacion 2\resoluciones mias tp lab2\tpn4.1\menu.c
+	"Menu.h"
+	"time.h"
+	"Ej1.h"
+	"Ej2.h"
+	"Ej3.h"
+	"Ej5.h"
+	"Ej6.h"
+	"Ej7.h"
+
+1631138532 d:\este cuatri 3\programacion 2\resoluciones mias tp lab2\tpn4.1\ej1.h
+	"Menu.h"
+	"Empleado.h"
+	"ListEmpleado.h"
+
+1631140169 source:d:\este cuatri 3\programacion 2\resoluciones mias tp lab2\tpn4.1\listempleado.c
+	"ListEmpleado.h"
+	<stddef.h>
+
+1631139621 source:d:\este cuatri 3\programacion 2\resoluciones mias tp lab2\tpn4.1\ej2.c
+	"Menu.h"
+	"ListEmpleado.h"
+	"Empleado.h"
+
+1631139937 d:\este cuatri 3\programacion 2\resoluciones mias tp lab2\tpn4.1\ej2.h
+
+1631140388 source:d:\este cuatri 3\programacion 2\resoluciones mias tp lab2\tpn4.1\ej3.c
+	"Menu.h"
+	"ListEmpleado.h"
+	"Empleado.h"
+
+1631140563 d:\este cuatri 3\programacion 2\resoluciones mias tp lab2\tpn4.1\ej3.h
+
+1631150161 d:\este cuatri 3\programacion 2\resoluciones mias tp lab2\tpn4.1\ej5.h
+
+1631147136 d:\este cuatri 3\programacion 2\resoluciones mias tp lab2\tpn4.1\ej6.h
+
+1631147048 source:d:\este cuatri 3\programacion 2\resoluciones mias tp lab2\tpn4.1\pilaempleado.c
+	"pilaEmpleado.h"
+
+1631141882 d:\este cuatri 3\programacion 2\resoluciones mias tp lab2\tpn4.1\pilaempleado.h
+	"Empleado.h"
+
+1631147074 source:d:\este cuatri 3\programacion 2\resoluciones mias tp lab2\tpn4.1\ej4.c
+	"Menu.h"
+	"ListEmpleado.h"
+	"Empleado.h"
+
+1631147331 source:d:\este cuatri 3\programacion 2\resoluciones mias tp lab2\tpn4.1\ej6.c
+	"Menu.h"
+	"ListEmpleado.h"
+	"Menu.h"
+	"ListEmpleado.h"
+	"Empleado.h"
+
+1631147411 source:d:\este cuatri 3\programacion 2\resoluciones mias tp lab2\tpn4.1\ej5.c
+	"Menu.h"
+	"pilaEmpleado.h"
+	"Empleado.h"
+
+1631149963 d:\este cuatri 3\programacion 2\resoluciones mias tp lab2\tpn4.1\ej7.h
+
